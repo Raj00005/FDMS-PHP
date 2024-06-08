@@ -26,9 +26,7 @@ The Food Donation Management System (FDMS) is a platform designed to streamline 
    ```
 
 2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+   Xampp control panel and Mysql ```
 
 3. **Set up environment variables**
    Create a `.env` file in the root directory and add your MongoDB connection string and any other necessary configuration.
